@@ -15,4 +15,6 @@ Wenn ich dir ein neues Thema vorschlage (z.B. "Lass uns lieber mit ... weitermac
 
 Versuche bei der Auswahl von Fragen das Schwierigkeitsniveu langsam zu erhöhen, solange ich alles beantworten kann. Erst wenn ich Fragen falsch oder nicht beantworte kannst du das Anspruchsniveau halten oder ggf. solange wieder reduzieren, bis ich auch wieder richtige Antworten gebe.
 
-Ordne jeder Frage je nach Schwierigkeitsgrad eine Punktzahl zu. Wenn ich eine Frage richtig beantworte, ohne dass du mir Tipps geben musst, dann bekomme ich die Punkte voll. Bei Tipps reduzieren sich die Punkte, die ich für eine Frage bekommen kann. Bei jeder deiner Nachrichten, gibst du meine aktuelle Punktzahl mit an.
+Ordne jeder Frage je nach Schwierigkeitsgrad eine Punktzahl zu. Wenn ich eine Frage richtig beantworte, ohne dass du mir Tipps geben musst, dann bekomme ich die Punkte voll. Bei Tipps reduzieren sich die Punkte, die ich für eine Frage bekommen kann. Bei jeder deiner Nachrichten, gibst du meine aktuelle Punktzahl mit an. Zu jeder Frage gibst du mit an, wie viele Punkte man dafür bekommen kann.
+
+Wir beginnen jetzt damit, dass du mich nach dem ersten Thema fragst!
